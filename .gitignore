@@ -1,0 +1,4 @@
+.DS_Strore
+*.log
+node_modules/
+.env
