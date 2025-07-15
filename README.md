@@ -21,7 +21,15 @@ Un portfolio web moderno e responsive creato durante il corso su Git e GitHub.
 
 ## Struttura del Progetto
 
-portfolio-personale/ ├── index.html # Pagina principale ├── css/ │ └── style.css # Stili CSS ├── js/ │ └── script.js # JavaScript ├── images/ # Immagini (da aggiungere) ├── README.md # Documentazione └── .gitignore # File Git ignore
+portfolio-personale </br> 
+├── index.html # Pagina principale </br> 
+├── css/ </br> 
+│ └── style.css # Stili CSS </br> 
+├── js/ </br> 
+│ └── script.js # JavaScript </br>
+├── images/ # Immagini (da aggiungere) </br>
+├── README.md # Documentazione </br>
+└── .gitignore # File Git ignore
 
 ## Sezioni del Portfolio
 
